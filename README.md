@@ -36,7 +36,8 @@ ensure basic_coffeejob
 ## Optional
 * Run `coffeejob.sql` in your database to add items in your `items` table.
 
-### License
+## License
+```
 basic_coffeejob - basic coffee job script for esx.
 
 
