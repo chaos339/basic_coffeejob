@@ -37,7 +37,7 @@ ensure basic_coffeejob
 * Run `coffeejob.sql` in your database to add items in your `items` table.
 
 ### License
-esx_coffeejob - basic coffee job script for esx.
+basic_coffeejob - basic coffee job script for esx.
 
 
 This script Is free: you can redistribute it And/Or modify it under the terms Of the GNU General Public License As published by the Free Software Foundation, either version 3 Of the License, Or (at your option) any later version.
