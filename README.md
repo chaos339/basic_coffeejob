@@ -22,7 +22,7 @@ to your database. OR you can just manually do it. The items are in the `server.l
 ### Using Git
 ```
 cd resources
-git clone https://github.com/chaos339/esx_coffeejob
+git clone https://github.com/chaos339/basic_coffeejob
 ```
 ### Manually
 - Download this resource and put it in your resources folder.
