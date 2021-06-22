@@ -31,7 +31,7 @@ git clone https://github.com/chaos339/esx_coffeejob
 - Add this to your `server.cfg`:
 
 ```
-ensure esx_coffeeshop
+ensure basic_coffeejob
 ```
 ## Optional
 * Run `coffeejob.sql` in your database to add items in your `items` table.
