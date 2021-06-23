@@ -16,7 +16,7 @@ Basic coffee job script for esx.
 to add more items that can be created or remove some of it. Do not forget to change the 'x' in the job.name (Line 50, Line 74, Line 101) into whatever job you plan to set it to.
 * You can also change the emote that will be executed when you decide to make an item. (Line 125, Line 132) In order to make it more realistic.
 * Do not forget to add the items that will be used and will be made in your `items` table in your database. I had an sql file ready if you want to use it to add the items
-to your database. OR you can just manually do it. The items are in the `server.lua` file.
+to your database. OR you can just manually do it. The items are in the `coffeejob.sql` file.
 
 ## Download & Installation
 ### Using Git
