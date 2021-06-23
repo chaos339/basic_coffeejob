@@ -1,5 +1,5 @@
 # basic_coffeejob
-Basic coffee job script for esx.
+Basic coffee job script for esx-framework.
 
 ## Features
 * Easy Configurations. Read Comments in the files for more information.
